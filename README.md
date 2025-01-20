@@ -9,4 +9,5 @@ This is my first try at using VS Code with Git Hub. I am currently practising th
 4. git pull
 5. git init 
 ---
-<p>```With Bratty's help!```</p>
+<p>```With Bratty's help!```
+*Thank you Bratty*</p>
